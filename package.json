@@ -1,0 +1,10 @@
+{
+  "name": "notion-playground",
+  "version": "1.0.0",
+  "description": "A place to play with Notions API",
+  "main": "dist/server.ts",
+  "repository": "https://github.com/Luka2477/notion-playground.git",
+  "author": "Lukas Knudsen",
+  "license": "MIT",
+  "private": false
+}
